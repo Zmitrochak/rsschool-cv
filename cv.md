@@ -1,7 +1,7 @@
 **Name**
-===============
-***Dmitry Cherepan***
----
+---------------------
+**Dmitry Cherepan**
+------------------------
 **Contacts**
 =============
 * ***Location:*** Minsk, Belarus
@@ -20,10 +20,10 @@ I work as a SAP ABAP developer. I really need in activities where I can develop 
  2. Team palying
  3. Diligence
 
->Learning (in progress...) 
+>Learning (in progress...) <
 ------------------
 **Skills**
-===========
+-----------
 * ABAP
 * SAP
 * HTML
