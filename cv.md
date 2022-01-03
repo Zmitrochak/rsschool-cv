@@ -50,11 +50,11 @@ I work as a SAP ABAP developer. I really need in activities where I can develop 
  * Belarus State University, FACULTY OF MECHANICS AND MATHEMATICS (2014-2019)
  * Courses SAP technologies for digital transformation (2019)
  * Courses System multiplatform programming (2019)
- * RSschool (in progress)
+ * RSSCHOOL (in progress)
  -----------------
  **Languages**
  =============
- * Enlish - A2 (B1 in progress... keep learning in STREAMLINE )
+ * Enlish - A2+ (B1 in progress... keep learning in STREAMLINE )
  * Russian - native speaker
  * Belarussian - native speaker
  * Polish - A1
