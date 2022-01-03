@@ -1,5 +1,2 @@
-# rsschool-cv
-
-https://zmitrochak.github.io/rsschool-cv/cv
-============================
-https://zmitrochak.github.io/rsschool-cv/
+* [Markdown CV link](https://zmitrochak.github.io/rsschool-cv/cv)
+* [HTML&CSS CV link](https://zmitrochak.github.io/rsschool-cv/)
