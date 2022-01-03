@@ -1,7 +1,8 @@
 **Name**
----------------------
+------
 **Dmitry Cherepan**
-------------------------
+----------
+
 **Contacts**
 =============
 * ***Location:*** Minsk, Belarus
@@ -11,7 +12,9 @@
 * ***Linkedin:*** [Dmitry Cherepan](https://www.linkedin.com/in/dmitry-cherepan-9277a6160/)
 
 --------
+
 **About Me**
+
 ------------
 I'm 24 y.o.
 I work as a SAP ABAP developer. I really need in activities where I can develop during my life. Now I'm trying to learn a new programming language to discover new possibilities.
@@ -31,7 +34,9 @@ I work as a SAP ABAP developer. I really need in activities where I can develop 
 * Git
 * OOP
 ---------------
+
 **Code Example**
+
 =============
 ```
 <!DOCTYPE html>
@@ -45,15 +50,20 @@ I work as a SAP ABAP developer. I really need in activities where I can develop 
 </html>
 ```
 ----------------
+
 **Education**
+
 ===========
  * Belarus State University, FACULTY OF MECHANICS AND MATHEMATICS (2014-2019)
  * Courses SAP technologies for digital transformation (2019)
  * Courses System multiplatform programming (2019)
  * RSSCHOOL (in progress)
  -----------------
+ 
  **Languages**
+ 
  =============
+ 
  * Enlish - A2+ (B1 in progress... keep learning in STREAMLINE )
  * Russian - native speaker
  * Belarussian - native speaker
