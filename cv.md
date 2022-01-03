@@ -37,7 +37,7 @@ I work as a SAP ABAP developer. I really need in activities where I can develop 
 
 **Code Example**
 
-=============
+
 ```
 <!DOCTYPE html>
 <html>
@@ -53,7 +53,7 @@ I work as a SAP ABAP developer. I really need in activities where I can develop 
 
 **Education**
 
-===========
+
  * Belarus State University, FACULTY OF MECHANICS AND MATHEMATICS (2014-2019)
  * Courses SAP technologies for digital transformation (2019)
  * Courses System multiplatform programming (2019)
@@ -62,7 +62,7 @@ I work as a SAP ABAP developer. I really need in activities where I can develop 
  
  **Languages**
  
- =============
+ 
  
  * Enlish - A2+ (B1 in progress... keep learning in STREAMLINE )
  * Russian - native speaker
